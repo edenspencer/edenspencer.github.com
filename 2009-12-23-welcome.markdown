@@ -1,0 +1,8 @@
+---
+layout: post
+title: Welcome
+categories:
+---
+
+Welcome to the new Designer On Rails blog. Now with added Jeykll!
+

@@ -1,0 +1,15 @@
+---
+layout: post
+title: Welcome
+categories:
+---
+
+Welcome to my blog. Now with added Jeykll!
+
+This blog will be about my journey towards software craftsmanship.
+
+I have been accepted as Enrique Comba Reipenhausen's apprentice. I will blog here about the successes and failures of my tasks along the way.
+
+I am a designer with no computer science background, so I expect my journey to be longer and bumpier than most.
+
+More will follow about the Wiki Task I have been set and my slow progress/ lessons learned.

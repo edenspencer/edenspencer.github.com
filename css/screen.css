@@ -22,22 +22,21 @@ html, body {
 }
  
 body {
-  background-color: black;
+  background-color: white;
   font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', helvetica, arial, clean, sans-serif;
-  color: #DDDDDD
 }
 
 h1, h2, h3, h4, h5, h6 {font-weight: normal;} 
 p {
   margin: 1em 0;
+     color: #333333;
 }
  
 a {
-  color: grey;
+  color: #000000;
 }
  
 a:hover {
-  color: white;
 }
  
 a:visited {
@@ -71,8 +70,6 @@ blockquote {
    margin: 0 auto 2em auto;
 }
 
-.header img {margin: 0 auto;}
-
 .header .title {
    margin-bottom: 0.7em;
    float: left;
@@ -80,12 +77,11 @@ blockquote {
 }
 
 .header .title a {
-   color: white;
    text-decoration: none;
+
 }
 
 .header .title a:hover {
-   color: grey;
 }
 
 .header .menu {
@@ -126,7 +122,6 @@ blockquote {
 .avatar {
   float: left;
   margin-right: 20px;
-  border: 1px solid #444444;
 }
 .footer .contact {
 }

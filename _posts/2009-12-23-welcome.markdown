@@ -1,0 +1,9 @@
+---
+layout: post
+title: Welcome
+categories: eden
+---
+
+Welcome to my new github blog.
+
+I am pleased to say that I have been accepted as an apprentice to Enrique Comba Riepenhausen. I will blog here about the tasks set; my successes, failures, lessons learned and insights gained from undertaking the long journey.

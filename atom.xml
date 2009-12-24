@@ -4,13 +4,13 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>EdenSpencer - The Long Road<</title>
+ <title>EdenSpencer - The Long Road</title>
  <link href="http://edenspencer.github.com/atom.xml" rel="self"/>
  <link href="http://edenspencer.github.com/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://edenspencer.github.com/</id>
  <author>
-   <name>Spencer Turner/name>
+   <name>Spencer Turne/name>
    <email>spencer@edendevelopment.co.uk</email>
  </author>
  

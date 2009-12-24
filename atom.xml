@@ -4,19 +4,20 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>EdenSpencer - The Long Road</title>
- <link href="http://edenspencer.github.com/atom.xml" rel="self"/>
+ <title>Spencer Turner - The Long Road</title>
+ <link href="http://edenspencer.github.com/eden_atom.xml" rel="self"/>
  <link href="http://edenspencer.github.com/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://edenspencer.github.com/</id>
  <author>
-   <name>Spencer Turne/name>
+   <name>Spencer Turner</name>
    <email>spencer@edendevelopment.co.uk</email>
  </author>
  
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
+   <tags>{{post.tags}}</tags>
    {% for category in post.categories %}
    <category term="{{category}}" />
    {% endfor %}

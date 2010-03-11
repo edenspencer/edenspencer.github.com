@@ -14,7 +14,7 @@ Testing is hard
 --
 This is not to say it's not worth it...but I do find it hard. I've found, often writing the tests is harder than writing the code, however, not testing makes thinks 100% harder in another way, in that you can't tell if something is really working.
 
-I've found [Pair Programming Bot](http://http://pairprogrammingbot.com/) really good for making me behave!
+I've found [Pair Programming Bot](http://pairprogrammingbot.com/) really good for making me behave!
 
 TDD
 --
